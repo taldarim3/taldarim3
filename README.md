@@ -19,7 +19,6 @@ Few words about myself:
 <br>
 ![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=AFEEEE)
 ![MSSQL](https://img.shields.io/badge/DB-MSSQL-informational?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white&color=AFEEEE)
-
 <br>
 ![ORM](https://img.shields.io/badge/ORM-EntityFramework-informational?style=flat-square&logo=entityframework&logoColor=white&color=FF61F6)
 <br>
