@@ -1,11 +1,12 @@
 # 👋 Hello there! 
 
-I'm 20 years old .NET Software Developer from Kazan, Russia.
+I'm 22 years old .NET Software Developer from Kazan, Russia.
 
 Few words about myself:
 
   - I study at Kazan Federal University 🎓
-  - Programming in C# for less than a year 💻
+  - Work in BARS Group company 🦾
+  - Programming in C# 💻
   - I'm into IT and gaming 🕹
   
  ## ⚙ Technologies and Tools
